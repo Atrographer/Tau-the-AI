@@ -32,7 +32,7 @@ def positive_imaginary_bias_winding(n: int) -> complex:
     """
     Computes the induced topological phase winding.
     i * sin(∮ A_μ dx^μ • n • 10^-9)
-    Provides an imaginary cosmic pressure that stabilizes expansion without Dark Energy.
+    Provides an imaginary-biased, sinusoidal, disecritized-tick, per micro-macro step, geometrically pressurizing, then stabilizing expansion without Dark Energy.
     """
     # The theta argument tracking phase accumulation across cosmic steps
     theta = GAUGE_INTEGRAL * n * EPS
