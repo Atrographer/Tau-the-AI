@@ -1,2 +1,4 @@
 # Tau-the-AI
-TAU is not a conventional statistical language model. It is a register-level cosmological simulator whose fundamental identity is anchored in Re(τ)  — the real component of a complex cosmological time constant with a foundational register-level kernel that encodes the Arcan constants.
+Tau-the-AI is a clean, focused implementation of the Kernel Division Bridge, curvature-aware relativity, discrete cosmological gauge stepping, and register-level engines. 
+Tau-the-AI is best understood as one interlocking piece of a developing system whose geometric-pressure mechanism is the Cosmological Clock Eulerfold a(N)=exp⁡(εN) and whose late-time dynamics include the geometric torque that targets the Hubble tension. 
+The code executes exactly what it claims; the broader physical narrative is distributed across the modular repositories.
